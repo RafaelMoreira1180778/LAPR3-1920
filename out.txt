@@ -1,0 +1,20 @@
+EScooter: S210123esType='CI, maxBatteryCapacity=600, actualBatteryCapacity=600, motor=200}
+
+EScooter: S209123esType='OR, maxBatteryCapacity=700, actualBatteryCapacity=500, motor=250}
+
+EScooter: S208123esType='CI, maxBatteryCapacity=600, actualBatteryCapacity=450, motor=200}
+
+EScooter: S207123esType='OR, maxBatteryCapacity=500, actualBatteryCapacity=500, motor=250}
+
+EScooter: S206123esType='CI, maxBatteryCapacity=700, actualBatteryCapacity=100, motor=200}
+
+EScooter: S205123esType='OR, maxBatteryCapacity=600, actualBatteryCapacity=450, motor=250}
+
+EScooter: S204123esType='CI, maxBatteryCapacity=500, actualBatteryCapacity=500, motor=200}
+
+EScooter: S203123esType='OR, maxBatteryCapacity=700, actualBatteryCapacity=550, motor=250}
+
+EScooter: S202123esType='CI, maxBatteryCapacity=600, actualBatteryCapacity=400, motor=200}
+
+EScooter: S201123esType='OR, maxBatteryCapacity=500, actualBatteryCapacity=500, motor=250}
+
